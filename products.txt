@@ -1,0 +1,10 @@
+123,test product 1,31234,400.0
+412,rwae,132,222.0
+789,Lays Chips,13579,1.99
+101,Oreo Cookies,24680,3.49
+234,Dove Soap,35791,1.29
+567,Tide Detergent,46802,14.99
+890,Head & Shoulders Shampoo,57913,6.99
+112,Colgate Toothpaste,68024,2.49
+345,Sunsilk Hair Conditioner,79135,3.99
+678,Fair & Lovely Cream,80246,2.99
